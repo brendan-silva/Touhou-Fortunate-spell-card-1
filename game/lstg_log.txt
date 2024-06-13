@@ -1,0 +1,66 @@
+[INFO] [APP] === Application start at: 18:27:15 ===
+[INFO] [APP] Build date: Dec 18 2020
+[INFO] [APP] CPU name: 12th Gen Intel(R) Core(TM) i7-12650H
+[INFO] [APP] Memory: 7730MB / 16087MB
+[INFO] [APP] OS name: Microsoft Windows 11 Home
+[INFO] [APP] Lua VM version: LuaJIT 2.1.0-beta3
+[INFO] [APP] ThreadPool size: 3 (core count: 16)
+[INFO] [AppFrame::applicationDidFinishLaunching] 
+    execute C:/Users/brend/OneDrive/Documentos/GitHub/Touhou-Fortunate-spell-card/game/src/main.lua
+[LOG] Backend device: Intel(R) UHD Graphics
+[LOG] Backend version: 4.6.0 - Build 31.0.101.5333
+[LOG] === Search Path ===
+{
+    "C:/Users/brend/OneDrive/Documentos/GitHub/Touhou-Fortunate-spell-card/game/"
+    "C:/Users/brend/OneDrive/Documentos/GitHub/Touhou-Fortunate-spell-card/game/src/"
+    "C:/Users/brend/OneDrive/Documentos/GitHub/Touhou-Fortunate-spell-card/game/res/"
+}
+[LOG] start main
+[INFO] [APP] initializing GameObjectPool (32768)
+[INFO] [APP] initialized successfully
+[INFO] [XRenderer::setVsync] set vsync off
+[LOG] change video mode to: (1708, 960), Windowed, VSync Off
+[LOG] start app
+[LOG] enum MODs in "C:/Users/brend/OneDrive/Documentos/GitHub/Touhou-Fortunate-spell-card/game/mod/"
+[LOG] change video mode to: (1708, 960), Windowed, VSync Off
+[LOG] view params:
+{
+    ["ui_vp"] = "0.0, 1708.0, 0.0, 960.0",
+    ["ui_or"] = "-107.0, 747.0, -0.0, 480.0",
+    ["screen_scale"] = 2,
+    ["world_or"] = "-192.0, 192.0, -224.0, 224.0",
+    ["world_vp"] = "470.0, 1238.0, 32.0, 928.0",
+}
+[LOG] DesignRes = 1708, 960
+[LOG] FrameSize = 1708, 960
+[LOG] Scale     = 1.000, 1.000
+[LOG] ui scale = 2.000, screen.scale = 2.000
+[LOG] load mod "game" from zip file
+[LOG] enum plugins in "C:/Users/brend/OneDrive/Documentos/GitHub/Touhou-Fortunate-spell-card/game/plugin/"
+[LOG] try to create directory "replay"
+[LOG] try to create directory "replay/game"
+[LOG] try to create directory "score/game"
+[LOG] view params:
+{
+    ["ui_vp"] = "0.0, 1708.0, 0.0, 960.0",
+    ["ui_or"] = "-107.0, 747.0, -0.0, 480.0",
+    ["screen_scale"] = 2,
+    ["world_or"] = "-192.0, 192.0, -224.0, 224.0",
+    ["world_vp"] = "470.0, 1238.0, 32.0, 928.0",
+}
+[LOG] DesignRes = 1708, 960
+[LOG] FrameSize = 1708, 960
+[LOG] Scale     = 1.000, 1.000
+[LOG] ui scale = 2.000, screen.scale = 2.000
+[LOG] clear stage resource pool
+[LOG] clear object pool
+[LOG] clear stage resource pool
+[LOG] clear object pool
+[INFO] create frame buffer, size: (1708, 960)
+[INFO] create posteffect buffer, size: (1708, 960)
+[LOG] clear stage resource pool
+[LOG] clear object pool
+[INFO] [APP] clear GameObjectPool
+[INFO] [APP] clear all resources
+[INFO] [APP] unload all packs
+[INFO] [APP] cleared successfully
